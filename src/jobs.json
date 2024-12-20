@@ -1,0 +1,45 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Frontend Developer",
+        "company": "Tech Innovators Inc.",
+        "location": "Remote / San Francisco, CA",
+        "salary": "$80k - $120k / year",
+        "link": "#apply-frontend-developer"
+      },
+      {
+        "id": 2,
+        "title": "Backend Engineer",
+        "company": "CodeCraft Co.",
+        "location": "Austin, TX",
+        "salary": "$90k - $130k / year",
+        "link": "#apply-backend-engineer"
+      },
+      {
+        "id": 3,
+        "title": "UI/UX Designer",
+        "company": "DesignPro Studios",
+        "location": "Remote",
+        "salary": "$70k - $100k / year",
+        "link": "#apply-uiux-designer"
+      },
+      {
+        "id": 4,
+        "title": "DevOps Engineer",
+        "company": "Cloudify Solutions",
+        "location": "Seattle, WA",
+        "salary": "$100k - $150k / year",
+        "link": "#apply-devops-engineer"
+      },
+      {
+        "id": 5,
+        "title": "Data Scientist",
+        "company": "Insight Analytics",
+        "location": "New York, NY",
+        "salary": "$110k - $160k / year",
+        "link": "#apply-data-scientist"
+      }
+    ]
+  }
+  
